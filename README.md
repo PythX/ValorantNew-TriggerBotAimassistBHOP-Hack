@@ -1,1 +1,1 @@
-# ValorantNew-TriggerBotAimassistBHOP-Hack
+Python ile yazılmış bir hile.
