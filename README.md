@@ -1,7 +1,5 @@
 ______________________________________________________________________________
 
-- "__pycache__" dosyasından gerekli python kütüphanesini kurun.
-
 - Oyunu İngilizce yapın.
 
 - AimAssist "DOWN"da çalışmıyorsa, "UP"da deneyin.
