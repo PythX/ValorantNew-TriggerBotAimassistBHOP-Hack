@@ -18,8 +18,11 @@ ______________________________________________________________________________
 _______________________________________________________________________________
 
 Developer: RealityCheats / PythX
+
 Credits: AntiDwordTeam
+
 Status: Undetected
+
 Yazılım Türü: Python
 _______________________________________________________________________________
 
@@ -33,22 +36,30 @@ _______________________________________________________________________________
 _______________________________________________________________________________
 
 1-) Python'un son sürümünü indirip kurun.
+
 2-) Hileyi çalıştırıp ayarları yapın ve oyuna girin.
 
 NOT: Hileyi oyun kapalıyken açmalısınız. Yoksa çalışmayacaktır!
 _______________________________________________________________________________
 
 CTRL + ALT = Triggerbot
+
 CTRL+ 1 = Auto Mode
-CTRL + 2 = Sniper Mode
+
+CTRL + 2 = Sniper
+
+CTRL + 4 = AimAssist
+
 CTRL + Shift = BHOP
 
 False = Kapalı
+
 True = Açık
 _______________________________________________________________________________
 
 Hileyi yükledikten sonra bütün sorumluluklar sizin üstünüzdedir. Olabileceklerden sizden başka kimse sorumlusu değildir.
 
 https://realitycheats.com/threads/6149/
+
 https://realui.org
 _______________________________________________________________________________
